@@ -1,5 +1,7 @@
 # Assignment: Error Boundary
 
+## https://blog.logrocket.com/react-lifecycle-methods-tutorial-examples/
+
 writeCode
 
 ## How to solve this exercise
